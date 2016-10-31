@@ -1,0 +1,5 @@
+server:
+  port: 8025
+
+application:
+  name: example-cloud-config
