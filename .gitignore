@@ -8,18 +8,6 @@
 # Intellij
 .idea/
 *.iml
-*.iws
-
-# Java
-*.class
-.mtj.tmp/
-*.jar
-*.war
-*.ear
-hs_err_pid*
-
-# Mac
-.DS_Store
 
 # Maven
 target/
