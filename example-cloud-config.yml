@@ -3,3 +3,12 @@ server:
 
 application:
   name: example-cloud-config
+  
+  
+---
+
+spring:
+  profiles: test
+  
+application:
+  name: example-cloud-config-test
