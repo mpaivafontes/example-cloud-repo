@@ -1,0 +1,14 @@
+server:
+  port: 8797
+
+application:
+  name: example-cloud-registry
+  
+  
+---
+
+spring:
+  profiles: test
+  
+application:
+  name: example-cloud-registry-test
