@@ -1,6 +1,2 @@
-spring:
-    application:
-        name: cloud-client
-
 server:
     port: 9999
