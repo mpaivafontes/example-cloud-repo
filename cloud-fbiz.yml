@@ -1,0 +1,14 @@
+server:
+  port: 8021
+
+application:
+  name: example-cloud-fbiz
+  
+  
+---
+
+spring:
+  profiles: test
+  
+application:
+  name: example-cloud-fbiz-test
