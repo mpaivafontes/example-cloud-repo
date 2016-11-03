@@ -1,8 +1,10 @@
 server:
   port: 8761
-
-application:
-  name: cloud-registry
+  
+eureka:
+  client:
+    register-with-eureka: false
+    fetch-registry: false
   
   
 ---
