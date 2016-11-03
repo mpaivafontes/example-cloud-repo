@@ -1,9 +1,5 @@
 server:
-  port: 8020
-
-application:
-  name: cloud-cdf
-  
+  port: 8020  
   
 ---
 
