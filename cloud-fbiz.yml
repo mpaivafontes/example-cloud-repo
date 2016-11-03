@@ -2,7 +2,7 @@ server:
   port: 8021
 
 application:
-  name: example-cloud-fbiz
+  name: cloud-fbiz
   
   
 ---

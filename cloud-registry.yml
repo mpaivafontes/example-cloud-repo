@@ -1,5 +1,5 @@
 server:
-  port: 8797
+  port: 8761
 
 application:
   name: example-cloud-registry
